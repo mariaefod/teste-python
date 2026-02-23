@@ -1,0 +1,13 @@
+## Aula 1
+# $ git checkout -b aula-01
+# $ python3 aulas/aula-01/app.py
+# ou
+# $ cd aulas/aula-01
+# $ python3 app.py
+
+## Aula 5
+# type() - saber o tipo de caractere 
+# int() - número inteiro a partir de decimal ou string
+# float() - constrói um número decimal a partir de um inteiro ou de uma string
+# str() - constrói uma string a partir de qualquer outro tipo
+# bool() - constrói um booleano a partir de um inteiro, float ou string
